@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Charde in the countie of Somerset, the second of March 1597 being the first day of the assises there holden.</title>
+            <author>Macey, George.</author>
+         </titleStmt>
+         <extent>Approx. 57KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14673</idno><idno type="EEBO-CITATION">99839016</idno>
+  <idno type="VID">176876</idno>
+  <idno type="EEBO-PROQUEST">2240897042</idno>
+  <idno type="STC">STC 17173.5</idno>
+  <idno type="STC">ESTC S103259</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839016e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 715:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Charde in the countie of Somerset, the second of March 1597 being the first day of the assises there holden.</title>
+                  <author>Macey, George.</author>
+               </titleStmt>
+               <extent>[5], 2-39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By R. Bradock?] for R.D[exter] and are to be soulde by Michaell Hart bookseller in the city of Exceter,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1601.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: George Macey.</note>
+                  <note>Printer's name conjectured by and publisher's name from STC.</note>
+                  <note>Running title reads: The magistrates charge.</note>
+                  <note>Identified as STC 17173a on UMI microfilm reel 715.</note>
+                  <note>Some print faint.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176876:1"/>
+            <p>A Sermon preached at <hi>Charde in the Countie of</hi> Somerset, the second of <hi>March 1597. being the</hi> first day of the Assises <hi>there holden.</hi>
+            </p>
+            <q>
+               <bibl>Pro. <hi>2.6.</hi>
+               </bibl>
+               <p>The Lord giueth vvisdome, out of his mouth commeth knovvledge and vn<g ref="char:EOLhyphen"/>derstanding.</p>
+            </q>
+            <p>¶ Imprinted at London for <hi>R. D.</hi> and <hi>are to be soulde by</hi> Michaell Hait bookeseller in the city of Exceter. 1601.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176876:2"/>
+            <pb facs="tcp:176876:2"/>
+            <head>❧ <hi>To the Right worshipfull</hi> Master Iohn Colles Esquire, one <hi>of her Maiesties Iustices of peace, and</hi> deputie lieutenant of the Coun<g ref="char:EOLhyphen"/>tie <hi>of Somerset.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight worshipfull, since GOD made the two great lights, the one to rule the day, the other the night, there were neuer so many good meanes to encrease knowledge and godlinesse, as there are at this day, neuer a time when it was more requisite that we should carefully vse these means thē now, neuer anything more profitable then the right vse of them. If we did duely consider the corruption of our owne nature, the snares of this present world, the slip<g ref="char:EOLhyphen"/>perinesse of worldly prosperitie, the shortnesse of our liues, and the certainety of the Iudgement to come, wee would employ all our studies and la<g ref="char:EOLhyphen"/>bours
+<pb facs="tcp:176876:3"/>about that one thing which is most needful,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. 42</note> that we might so passe our time while we remaine in this vale of misery, that after our departure hence, we may liue in eternall felicitie. To this end only haue I caused this Sermon now at length to be published to the viewe of the world, from which aduenture many things haue stayed mee almost these three years, but chiefely these two, mine own immaturitie and the plainenesse or ra<g ref="char:EOLhyphen"/>ther the rudenes of the stile &amp; phrase of speach. Neuerthelesse sith we be all debters one to ano<g ref="char:EOLhyphen"/>ther, and the heathen men teach vs this lesson, that we are not born for our selues, but our friends chalenge a part, our parents a part, our coūtrey a part, laying aside feare, I haue at this time em<g ref="char:EOLhyphen"/>boldened my selfe with the poore widow to cast a slender offering into the Lords treasurie. This mine endeauour <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> present vnto your worship, in rememberance of that Christian fauour which you haue shewed vnto me. Thus I commend you &amp; all yours to the father of lights, that is able to enrich you in this life with the treasure of know<g ref="char:EOLhyphen"/>ledge &amp; wisdom, and in the life to come to blesse you with immortalitie in the ioyfull place of rest for euer and euer.</p>
+            <closer>
+               <signed>
+                  <hi>Your worships to commaund,</hi> George Macey.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:176876:3"/>
+            <head>A Sermon preached at <hi>Charde.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Psalme <hi>2.</hi> verse. <hi>10.</hi>
+                  </bibl>
+                  <p>Be vvise novv therefore, yee kings, be learned yee that are Iudges of the earth.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>OR my better direction in making a briefe reher<g ref="char:EOLhyphen"/>sal of some of those good lessons and obseruations which yee (honorable, right worshipfull, and dearely belooued in our Lord and Sauiour Iesu Christ) haue sundry times heard heretofore deliuered by men of greater grauitie, more exquisite learning, and riper iudgement, for your instruction and ad<g ref="char:EOLhyphen"/>monition, I haue made choyce of this scripture now read vnto you, being as I may rightly terme it the <hi>Magistrates Charge,</hi> giuen by no worse man then a king, to be a light vnto all princes and gouernours then liuing and suc<g ref="char:EOLhyphen"/>ceeding vnto the worlds end.</p>
+            <pb n="2" facs="tcp:176876:4"/>
+            <p> The order, which I purpose to obserue in handling this parcell of scripture,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0</note> shalbe this:
+<list>
+                  <item>First I will speake of the occasion that moued the king and Prophet to giue this charge.</item>
+                  <item>Secondly, of the persons to whom it is giuen.</item>
+                  <item>Thirdly, of the charge it selfe, what it is.</item>
+                  <item>Fourthly, of the time, when it is to be put in practise.</item>
+               </list>
+            </p>
+            <p>I am not ignorant that there is nothing more pleasing to the common multitude then to heare men in authoritie openly and sharply reprooued:
+<note place="margin">.19.</note> but this know yee, that as <hi>Paule</hi> did appeale vnto <hi>Caesar,</hi> not that hee had any thing to accuse his nation of: so I which stand before you this day, came not to this place to be any mans accuser, but to be a remembran<g ref="char:EOLhyphen"/>cer vnto all: your accuser is within you, euery mans owne conscience. Whosoeuer therefore shall feele any inward pricking, let him ac<g ref="char:EOLhyphen"/>knowledge the power of the word of GOD, which is mightie in operation and sharper then any two edged sword.
+<note place="margin">.12.</note>
+            </p>
+            <p n="1">1 The occasion that moued king <hi>Dauid</hi> to giue this charge, was this, because there is a king and a Iudge, whose throne is for euer and euer,
+<note place="margin">5.6.</note> the scepter of his kingdome a scepter of righteousnesse, vnto whose lawes and or<g ref="char:EOLhyphen"/>dinances
+<pb n="3" facs="tcp:176876:4"/>al earthly powers are strictly bound to yeelde obedience: which if they refuse to doe, and of obedient subiectes that should not attempt any thing farther then they are warranted by his vnreproueable lawes, do be<g ref="char:EOLhyphen"/>come rebelles and say desperately, Surely we will walke after our owne imaginations,
+<note place="margin">Ier. 18.11</note> and doe euery man after the stubbornesse of his wicked heart, they shall perceiue that an an<g ref="char:EOLhyphen"/>gry countenance from his face is able to crush al his enemies in peeces. The disobedient shall to their cost vnderstand that neither the po<g ref="char:EOLhyphen"/>licie of the worldly wise, nor the strength of the mightie, nor the countenance of thē that are in high places, shal be able to deliuer them in the day of vengeance: but as an earthen pot is easily broken in peeces with the stroke of an Iron hāmer, so the greatest potentates in the worlde being but as clay in the hande of the potter, if they continue bewitched with the loue of their own wisdome and power, &amp; by reason of their riches and titles, blaspheme the gospell, despise gods Ministers, contemne our Church and congregations, set light of holy exercises, shall be brused with the rod of power and the breaking of them shall be as the breaking of a potters pot,
+<note place="margin">Isai. 30.1</note> which is broken
+<pb n="4" facs="tcp:176876:5"/>without pitie,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sa. 30.14</note> and in the breaking of it shall not be founde a sheard to take fire out of the hearth or water out of the pit. Sith there abi<g ref="char:EOLhyphen"/>deth for the impenitent so heauie &amp; fearefull iudgement, <hi>Be wise yee kings, &amp;c.</hi>
+            </p>
+            <p n="2">2 The persons, to whome this <hi>Charge</hi> is giuen are Kings and Iudges: by these two titles wee may vnderstand not onely the chiefe rulers of countries and nations as Emperours, kings, Dukes and such like, but all others also that are put in authoritie vnder them, because it is to heauie a burthen for one man to decide all controuersies but this must be remembred that by how much the higher their place and calling<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, by so much the more properly doth this <hi>Charge</hi> bertaine vnto them. The reasons are two: First, men of high place and calling haue many lets and impediments, many en<g ref="char:EOLhyphen"/>comberances that either hinder them from turning into the right way,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. King. 12.3.</note> or clogge them that they walke very slowly therein, therfore it behoueth them to haue special care to seek for this spirituall wisdome and heauenly lear<g ref="char:EOLhyphen"/>ning; therefore is it that the holy Ghost for<g ref="char:EOLhyphen"/>teth them out from among othermen, and as it were pointeth vnto them with the finger in this place. As a mā that hath a purpose to build
+<pb n="5" facs="tcp:176876:5"/>an house, will first prouide the greatest timber which shal be the most principal in the work, and the greatest stones that they may be laide vnder in the foundation When any king pur<g ref="char:EOLhyphen"/>poseth to make warre against another king, he will first determine of his Generall, then of his infuriour captaines and officers: this beeing done he gathereth togither his forces from all parts of his dominions: in like manner the lord and king of heauen &amp; earth intending to erect the spirituall building of his church, which is groūded vpon the foundation of the Prophets and Apostles,
+<note place="margin">Eph. 2.20</note> Christ himselfe being the head corner stone, wold haue the mē of authoritie, as great stones to be laide strongly and fast vpon the foundation, that the building might goe the more luckily forward: the same Lord &amp; king intending to ouerthrow the kingdom of Satan &amp; to driue him out of his dominions, woulde that the rulers shoulde not play the cowards, but should goe as leaders and cap<g ref="char:EOLhyphen"/>taines before others, giuing encouragement to their inferiours. As <hi>Moses</hi> and <hi>Aaron</hi> went togither, so if the Magistrate which be a<g ref="char:EOLhyphen"/>reth the sworde goe forwarde with the Minis<g ref="char:EOLhyphen"/>ter that preacheth the word, the people shall the more easily be deliuered from the spiritual
+<pb n="6" facs="tcp:176876:6"/>
+               <hi>AEgypt</hi> &amp; the more willingly march towards the heauenly <hi>Canaan.</hi> The second reason is, for their examples sake, <hi>Scilicet in vulgus ma<g ref="char:EOLhyphen"/>nant exempla regentum,</hi> their exampls, whither good or euill, preuaile mightily among the people: if good, much to their furtherance; if euil, more to their hinderance in the encrease of vertue and godlinesse: fire warmeth the things that are neare vnto it,
+<note place="margin">Deut. 11.10.</note> the ouerflowing of the riuer <hi>Nilus</hi> did water the lande of <hi>Egypt,</hi> in the time of <hi>Noahs</hi> flood as long as the moū<g ref="char:EOLhyphen"/>taines were couered with water, the vallies could not be dry: so if the superiours be zea<g ref="char:EOLhyphen"/>lous, their heate will kindle the zeale of their inferiours, their godlinesse and righteousnesse will allure others to bring forth fruites worthy of amendment of life: and on the other side, if the great men of the worlde be wicked and prophane for the most part (but not altogi<g ref="char:EOLhyphen"/>ther) the multitude is vngodly and vnholy.
+<note place="margin">Mat. 11.5.</note> A mote is easily passed ouer though it be in a very darke place, but a great block in a straite and a narrow way causeth many to stumble e<g ref="char:EOLhyphen"/>uen in the light and at noone day; the fall of a mightie oake or a Cedar may be heard a farre off, and in their fall they breake downe many tender shrubs that grow vnder them; though
+<pb n="7" facs="tcp:176876:6"/>many small stones fall out of a wall, yet the breach may be but small; whereas the falling out of one great stone maketh a very greate breach, because that falleth not alone, but many small rush out with it: Yee are these greate blocks, these Oakes, and Cedars, yee are these great stones.
+<note place="margin">Ioh. 7.49.</note> Doe any of the rulers or Pharisees beleeue on him? but this people which knowe not the lawe are cursed. So in these daies it is saide, how fewe of our gentle<g ref="char:EOLhyphen"/>men, of our great men doe esteeme the Gos<g ref="char:EOLhyphen"/>pell as they should? How doe they recken of the preaching and preachers therof?
+<note place="margin">1. King. 22.8.</note> How few of thē had rather hearken to <hi>Michah</hi> thē <hi>Zid<g ref="char:EOLhyphen"/>kijah?</hi>
+               <note place="margin">Pro. 22.6.</note> How few of them teach their children in the trade of their way, that when they are olde they may not depart from it? Hence it commeth to passe that both olde and young for the most part delight in such Prophets as will flatter them,
+<note place="margin">Michah. 2 11.</note> telling pleasant tales and speaking of their commodities, and are with <hi>Herode</hi> wearie of <hi>Iohn Baptist</hi> his preaching as soone as he speaketh one word against their <hi>Herodians?</hi> How many lead their liues as <hi>Esau</hi> and <hi>Sardanapalus?</hi> In health they forget God,
+<note place="margin">2. Chron. 16.12. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> d. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 9.</note> in sicknesse they seeke not the Lord, but with the foolish king <hi>Asa,</hi> seeke to the phisitians,
+<pb n="8" facs="tcp:176876:7"/>next send for the Lawyer to make deuises, long entailements and perpetuities,
+<note place="margin">Psa. 127.1.</note> as though euery man could builde an house at his plea<g ref="char:EOLhyphen"/>sure: at last, when all hope and likelyhood of longer life is past, then perhaps they call for a spirituall counseller, who when he commeth, must not be troublesome, that is, must speake nothing but of mercie, mercy: if he speake of gods iudgements against sinne, it must bee in generall termes, in any case must not a worde be spoken of any restitution of things vniustly gotten, this is trouble some to the sicke, and irkesome to the whole, whereby it plainelie appeareth how hard a thing it is for a rich man to enterinto the kingdome of heauen. The beholding of this kinde of behauiour, causeth many fooles to say in their hearts,
+<note place="margin">Psal. 14.1.</note> there is no God.
+<note place="margin">Mat. 18.7.</note> It must needes be (saith our Sauiour) that offences come, but woe be to that ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by whome the offence commeth: the readie way to escape this woe and to bee deliuered from the wages of our sinnes,
+<note place="margin">Rom. 6, 23.</note> is by this wis<g ref="char:EOLhyphen"/>dome and learning in my text commended vnto vs.</p>
+            <p>Before I come to speake thereof, I wil brief<g ref="char:EOLhyphen"/>ly obserue one very necessarie note, that is, that the holy Ghost saith not, O ye Kings and
+<pb n="9" facs="tcp:176876:7"/>Iudges giue ouer your places, for your autho<g ref="char:EOLhyphen"/>ritie is vnlawfull, but directeth them how to behaue themselues in their seuerall places:
+<note place="margin">Psal. 82.1. Mat. 22.21 Rom 13.1. Tit. 3.1. 1, Pet. 2.13</note> whence it is verye leare, that as wel in this place as in many others, their authoritie is allowed to be lawfull; therefore the doctrine of the <hi>Anabaptistes</hi> and <hi>Maniches,</hi> and whatsoeuer else they be that deny the lawfulnesse of Ma<g ref="char:EOLhyphen"/>gistrates authoritie, is to bee reiected of all christians, being most pernicious and wicked.</p>
+            <p n="3">3 <hi>The Charge</hi> it selfe what it is, that the fore<g ref="char:EOLhyphen"/>named persons be wise &amp; learned, S. <hi>Barnard</hi> in his first <hi>Sermon de aduentu Domini,</hi> saith, the men that trust in worldly comfortes, are like vnto those that fall into some deep water, &amp; being in danger of drowning, take holde of whatsoeuer commeth first to hand, as weeds or rootes of trees, or whatsoeuer else, though they doe more hurt then profit them; yea &amp; though better helpe be offered; they wil hard<g ref="char:EOLhyphen"/>ly leaue their first holde: by meanes whereof, many times it commeth to passe that they pe<g ref="char:EOLhyphen"/>rish. All men that are borne into this worlde, fall into a deepe sea of miseries, if wee take wrong holde, wee shall without doubt perish euerlastingly,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ad <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dvult d. Cap.</hi> 9.</note> vnlesse in due feason wee shall be content to followe this wisedome
+<pb n="10" facs="tcp:176876:8"/>which as a cloude by day and as a pillar of fire by night will conduct vs fafely through middest of the tēpestuous waues of this world.
+<note place="margin">Exod. 14.</note> For our better instruction in this point, wee must vnderstand that there is a twofold wise<g ref="char:EOLhyphen"/>dome,
+<note place="margin">Ier. 4.22.</note> one whereby men are wise to doe euill, but to doe well haue no vnderstanding,
+<note place="margin">Ier. 4.22.</note> this is the wisdome of the flesh as Saint <hi>Paule</hi> cal<g ref="char:EOLhyphen"/>leth it,
+<note place="margin">Rom. 8.6. Iam. 3.15.</note> and Saint <hi>Iames</hi> saith it is earthly, sense<g ref="char:EOLhyphen"/>lesse and diuelish, in this the children of this worlde are most expert and cunning.</p>
+            <p>The other kinde of wisdome is an holy vn<g ref="char:EOLhyphen"/>derstanding whereby we lay vp the precepts of the Lord in our hearts that wee might not sinne against him,
+<note place="margin">Deut. 4.6.</note> this is the wisdome of the spirit and descendeth from aboue, this, none, but the children of God doe enioy. This mat<g ref="char:EOLhyphen"/>ter would require a large discourse, but that I may haue time to make application to ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> seuerall vses and not keepe you too long from your businesse which brought you vnto this place, I will deliuer it as briefely as possibly I may.</p>
+            <p>This wisdome is a free gift of God, the holy Ghost enspyring and sowing it in our heartes thereby enlightning the eyes of our vnder<g ref="char:EOLhyphen"/>standing, that we may make a holy vse of all
+<pb n="11" facs="tcp:176876:8"/>the things which wee haue seene heard and learned. Though Israell saw all the wonders which the Lord did in the land of <hi>Egypt</hi> to <hi>Pharaoh</hi> and to all his seruants,
+<note place="margin">Deut. 29.2.4.</note> yet the Lord hath not giuen you (saide <hi>Moses</hi>) an heart to perceiue, and eyes to see,
+<note place="margin">Ioh. 12.40.</note> and eares to heare vnto this day: whence we may learne that it is not in our own power to make profit of the things which are most manifest euen before our eyes, except God endue vs with wisdome from aboue: with this wisdome the Wisardes of the world are not acquainted, they account it stark foolishnesse &amp; madnesse, there is not an vnregenerat person, no not one, that enioyeth the companie thereof, and that for two causes;
+<note place="margin">Math. 7.6.</note> First because it is a pearle that is neuer cast before swine, so holy a thing that it is neuer gi<g ref="char:EOLhyphen"/>uen to dogges,
+<note place="margin">Wisd. 1.4.</note> wisdome cannot enter into a wicked heart, nor dwell in the bodie that is subiect to sinne; for it is the very stampe and print of that sacred seale,
+<note place="margin">Ioh. 3.33. 2. Tim. 2.19.</note> wherewith the holy Couenant indented betweene God and man is interchangeably sealed. Secondly the vn<g ref="char:EOLhyphen"/>godly enioy it not, because they seeke it not; <hi>They that seeke mee shall finde mee:</hi>
+               <note place="margin">Pro. 7.17. <hi>Aug. ad quodvult d. Cap.</hi> 9.</note> Wisdome must be sought for, wherefore wee must not be like the <hi>Anabaptists, qui Enthusiasmos &amp;
+<pb n="12" facs="tcp:176876:9"/>Priuntas reuelationes expectant,</hi> which neg<g ref="char:EOLhyphen"/>lect all meanes, and looke to haue giftes of grace enspired into them as the breath of life was breathed into <hi>Adam</hi> when he was crea<g ref="char:EOLhyphen"/>ted,
+<note place="margin">Gen. 2.7.</note> but we must all seeke, for seeking is the ordinary meanes to finde wisdome. That we may so seeke, that wee may finde, wee must obserue these two things: first where we must seeke for wisdome, and secondly after what manner we must seeke for it. When we neede medicines, we goe to the Apothecaries shop, for gould and siluer wee visite the Indies, for pearles (as trauailers report) men goe downe to the bottom of deepe waters: Whosoeuer desireth this wisdome without which mens soules pine away and dy, let him repaire to the holy Scriptures, they are a shoppe full of all spirituall medicines: this wisdome, more pre<g ref="char:EOLhyphen"/>tious then all gold or siluer, out of the word of God is to be mined, if we will, or at leastwise if wee can descend into the depth thereof, there shall we finde this pearle which is not to be valued with the wedge of golde of <hi>Ophir,</hi> nor with the pretious <hi>Onix,</hi> nor with the <hi>Ga<g ref="char:EOLhyphen"/>bish,</hi> nor with the <hi>Topaz</hi> of <hi>Aethiopia,</hi> al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewels are nothing in comparison thereof:
+<note place="margin">Psal. 19.7.</note>
+               <hi>The testi<g ref="char:EOLhyphen"/>monies of the Lord giue wisdom vnto the simple.</hi>
+            </p>
+            <pb n="13" facs="tcp:176876:9"/>
+            <p> Now we know where, next we are to consi<g ref="char:EOLhyphen"/>der how we must seeke this heauenly treasure. The first steppe of searching for it, is earnest and hearty prayer according to the lesson that Saint <hi>Iames</hi> teacheth vs,
+<note place="margin">Iam. 1.5</note>
+               <hi>If any man want wis<g ref="char:EOLhyphen"/>dome, let him aske of God which giueth to all men liberally;</hi> herein the Apostle shewed him<g ref="char:EOLhyphen"/>selfe a good scholler of his and our master and Sauiour Christ,
+<note place="margin">Mat. 7.7.</note> who taught his disciples this lesson; <hi>Aske and it shall be giuen you, seeke and yee shall finde, knocke and it shall be opened vnto you.</hi>
+            </p>
+            <p>The next step is an ordinarie and humble hearing of the worde sincerely preached, ioy<g ref="char:EOLhyphen"/>ned with an earnest desire to profit thereby, for many there be that hear &amp; are very little or nothing the better, as they that come to the places of holy exercises, for custome, or for cō<g ref="char:EOLhyphen"/>panie, bringing hearts full fraught with settled purposes and determinations to do that which seemeth good in their owne eyes, whatsoe<g ref="char:EOLhyphen"/>uer they shall at any time heare taught: of these men, the wise man speaking, saith thus;
+<note place="margin">Pro. 14.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>A scorner seeketh wisdome and findeth it not.</hi> That wee may not lose our labour, let vs remē<g ref="char:EOLhyphen"/>ber our Sauiour his watchwords, bidding all men take heede how they heare, and to this
+<pb n="14" facs="tcp:176876:10"/>purpose also let vs keepe in minde, that bitter checke giuen to the vnprofitable seruant, <hi>To him that hath shall be giuen,</hi>
+               <note place="margin">at. 25.29</note>
+               <hi>and from him that hath not, shal be takē away euē that which he hath.</hi>
+            </p>
+            <p>The third step in seeking, is <hi>Meditating</hi> on the things that we haue heard, by this meanes the <hi>Bereans</hi> made profit of the Apostles prea<g ref="char:EOLhyphen"/>ching,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct. 17.11.</note> they did not onely receiue the worde of God with all readinesse, but searched the scriptures daily whether the things were so or no: this is the way to fasten in our heartes the things that we haue heard. As the beasts that chewed not the cud were vnclean by the law:
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eu. 11.26</note> so if we meditate not of the worde that we may remember it, and remembring, wee may practise it, though we spend our whole life in hearing,
+<note place="margin">Pet. 1.22</note> wee are vncleane still. By che<g ref="char:EOLhyphen"/>wing, the sweetnesse is the better tasted, the meate the sooner digested, the bodie the bet<g ref="char:EOLhyphen"/>ter nourished, and the strength the more en<g ref="char:EOLhyphen"/>creased: So the meditating on the worde of the Lord, will yeeld vs so liuelily a taste of the sweetenesse thereof, that wee shall confesse with <hi>Dauid,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sal. 19.10</note> that it is sweeter than the hony comb: this sweetnesse wil breed in vs an vnsa<g ref="char:EOLhyphen"/>tiable desire to be continually fed therewith, by feeding theron we shal grow from strength
+<pb n="15" facs="tcp:176876:10"/>to strength, from vertue to vertue,
+<note place="margin">Psal. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1 1. Kin. 1</note> &amp; so come to the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyfull estate of blessed men.</p>
+            <p>For our encouragement in this good course, let vs marke wel what wisdome herselfe saith,
+<note place="margin">Pro. 8. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1. Kin. it</note>
+               <hi>They that seeke me earely, shall findeme: riches &amp; honour are with me; euen durable riches &amp; righ<g ref="char:EOLhyphen"/>teousnesse;</hi> she is not as a woman sitting alone desolate and forsaken, as one that had seene widowhoode and losse of children, but as the kings daughter all glorious within, her clo<g ref="char:EOLhyphen"/>thing all of brodred gold, her raimēt of needle worke, her ornaments and her iewels are a<g ref="char:EOLhyphen"/>bout her. The generation of them that shall finde her are they that feare God.
+<note place="margin">Psal. 111</note>
+               <hi>The begin<g ref="char:EOLhyphen"/>ning of wisdome is the feare of God &amp; a good vn<g ref="char:EOLhyphen"/>derstanding haue all they that doe thereafter.</hi>
+            </p>
+            <p>Whether we haue alreadie attained any por<g ref="char:EOLhyphen"/>tion of this wisdome or no, we shall know by the fruites therof, which are in generall two, to witte zeale of Gods house, and integritie of manners: which two cannot be separated the one from the other, no more then heat frō the fire, moisture from thewater, &amp; light from the sunne. If our zeale be not such as that,
+<note place="margin">Ex. 32.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rom. 9</note> ouer<g ref="char:EOLhyphen"/>passing all loue of our selues, our owne plea<g ref="char:EOLhyphen"/>sure and profit (I omit to say our owne sal<g ref="char:EOLhyphen"/>uation and damnation with <hi>Moses</hi> and <hi>Paule</hi>)
+<pb n="16" facs="tcp:176876:11"/>we doe not absolutely with an heartie affecti<g ref="char:EOLhyphen"/>on seeke the glory of God, by the aduance<g ref="char:EOLhyphen"/>ment of the scepter of his kingdomne: if in the course of our liues we walke not as be cō<g ref="char:EOLhyphen"/>meth them that would be called the sonnes of God, howsoeuer we would be esteemed, wee are ignorant and foolish. What then shall we say of them, who asmuch, as in them lyeth, continue the course of that floode which the Serpent cast out of his mouth after the woman that she might be carried away of the same?
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u. 12.15</note> What of them, that as the <hi>Philistins</hi> would not suffer any smith in <hi>Israell,</hi>
+               <note place="margin">Sam. 13.</note> least the <hi>Hebrewes</hi> make them swords or speares, will take away all the meanes whereby we should make pro<g ref="char:EOLhyphen"/>uision for our defence and safetie against our ghostly enemies. It may be many of these are accounted wise in the world, and they recken themselues to do all things well, no maruaile; <hi>Salomon</hi> saith,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. 12.15</note> their be many that thinke their owne wit best. To withhold the pay from thē that go a warfare, to muzzle the mouth of the oxe that treadeth out the corne, to deny the fruite of the vine to him that planteth it, to forbid them to be partakers of the altar which attend at the altar, are these the effectes of zeale in these daies? they haue bin contrarie in
+<pb n="17" facs="tcp:176876:11"/>former times. When <hi>Moses</hi> built the taberna<g ref="char:EOLhyphen"/>nacle by gods appointment, there was so great an offering,
+<note place="margin">Exo. 36.</note> that there was too much brought, &amp; <hi>Moses</hi> bad the people cease from giuing. In the darke daies &amp; blacknesse of olde superstition, men were so forwarde in giuing towards the maintenance (as they thought) of true religion, that as ye know well, they were restrained by lawe. That was the time of gi<g ref="char:EOLhyphen"/>uing, this is the time of taking away, that was the time of enriching, this is the time of impo<g ref="char:EOLhyphen"/>uerishing, that was the time when mē thought all too little, this is the time when men thinke all too much, so that there is no sweeter bread then that which is stolne from vs: wee haue lawes for our defence strong enough to pro<g ref="char:EOLhyphen"/>tect vs from all iniuries, were it not for that olde prouerbe; <hi>If a man hewe ouer his heade, chips will fall into his eyes.</hi> Well, men cannot liue by the ayre alone as it is saide of the <hi>Came<g ref="char:EOLhyphen"/>lion,</hi> therefore ministers must of necessitie re<g ref="char:EOLhyphen"/>quire a part of their lawfull due: by so doing they oftentimes purchase to themselues ma<g ref="char:EOLhyphen"/>ny reproches; to be called couetous, greedie, troublesome, the most lewde men vpon the earth. Are there not such, say our accusers? I will not deny the truthe, surely there are the
+<pb n="18" facs="tcp:176876:12"/>sons of <hi>Ely,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>am. 2.12 <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>n. 12.31 <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>t. 26.15 Tim. 3.8 Ioh. 9. <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>c. 34.3.</note>
+               <hi>Ierobohams</hi> priests, <hi>Iudas, Dio<g ref="char:EOLhyphen"/>trephes, Demas,</hi> many that eare the fatte and cloath themselues with the woll, but feede not the sheepe. I will shewe you a way how many of these great faults may bee amended; if yee that are Patrons woulde deale faithfully in your Patronage, and not regarde the giftes of the handes more then the gifts of the minde: Your Patronage is but an enfaithment in trust, they that make gaine thereof, sell that which is none of theirs, <milestone type="tcpmilestone" unit="unspecified" n="6"/> and are vnfaith<g ref="char:EOLhyphen"/>full in the trust to them committed. I say, praysed bee God for them that haue shewed themselues faithfull. As for such as account their gaine godlinesse, and their theft honest dealing, let them re<g ref="char:EOLhyphen"/>member what reward <hi>Gehezi</hi> had for re<g ref="char:EOLhyphen"/>ceiuing giftes at the hands of <hi>Naaman</hi> the <hi>Syrian:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> King. 5.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7</note> let them remember the punish<g ref="char:EOLhyphen"/>ment of <hi>Ananias</hi> and <hi>Saphyra</hi> for embeasel<g ref="char:EOLhyphen"/>ling a part of their own possession,
+<note place="margin">Act. 5.5.10.</note> which they sould when is was in their choyce whi<g ref="char:EOLhyphen"/>ther they woulde haue solde it or no: let them remember the counsaile that Saint <hi>Peter</hi> gaue vnto <hi>Simon Magus,</hi> saying, <hi>Re<g ref="char:EOLhyphen"/>pent therefore of this thy wickednesse,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 8.22.</note>
+               <hi>&amp; pray
+<pb n="19" facs="tcp:176876:12"/>God, if it be possible, that the thought of thine heart may be forgiuen thee.</hi> Is mercilesnesse no sinne? Seemeth it a small thing to betray,
+<note place="margin">Iam. 2.13</note> nay to murther soules? Is it none offence to nourish the seede of errors, heresies, idolatry, treason, and rebellion: all which budde and spring out of ignorance?
+<note place="margin">1. Sam. 5.3 Exod. 7.1:</note> As <hi>Dagon</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell down before the Arke, <hi>Aarons</hi> rod deuoured the rods of the Enchaunters, the beames of the Sunne do disperse the darkesome clouds; euen so, surely if the Gospell were sincerely prea<g ref="char:EOLhyphen"/>ched, as it might haue beene in many places more then it is, were not the labourers por<g ref="char:EOLhyphen"/>tion deuoured by the deuourers, the Idols of mens hearts would fall downe in the pre<g ref="char:EOLhyphen"/>sence of the trueth, superstitious blindenesse which as yet couereth the hearts of manie thousands within this lande, no lesse then it did the very first day of her Maiesties ioy<g ref="char:EOLhyphen"/>full and happie Raigne, should haue beene put to flight long agoe.</p>
+            <p>In all this, I haue yet saide nothing of Impropriations, because I knowe that the possessors of them will straightway fly to the lawe of the lande, as to a most safe citie of re<g ref="char:EOLhyphen"/>fuge.</p>
+            <p>Though outlaw do allow thē, as y<seg rend="sup">e</seg> law of <hi>Moses</hi>
+               <pb n="20" facs="tcp:176876:13"/>allowed diuorcement, yet I am surely perswa<g ref="char:EOLhyphen"/>ded that such propriatories as haue both the best and the worst tithes, and the whole pas<g ref="char:EOLhyphen"/>torall charge withall, and yet make no con<g ref="char:EOLhyphen"/>science of prouiding &amp; giuing spirituall things for their temporall, that these offende against the law.
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>stcheap <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e accoū<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>d best.</note> Our lawes aboue all things desire that God may be glorified, but to yeeld such slen<g ref="char:EOLhyphen"/>der and beggerly allowance to the ministers of the gospell, as that they be enforced not on<g ref="char:EOLhyphen"/>ly to liue by the deuotion of others, but some<g ref="char:EOLhyphen"/>times to vse filthy and vnlawfull meanes to supply their wants, it is the readie way to cause the enemies of the Lord to blaspheame. Well sith the neglect of corporall prouision for the poore shall be remembred when euery man shall receiue according to his workes,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>at. 25.35</note> with<g ref="char:EOLhyphen"/>out all doubt the famishing of soules will not be forgotten. Then shall many irreligious pro<g ref="char:EOLhyphen"/>fessors plainely perceiue that they haue ac<g ref="char:EOLhyphen"/>counted wisdome foolishnesse, and foolish<g ref="char:EOLhyphen"/>nesse wisdome, and then too late they shall wish that they had beene wiser in season.</p>
+            <p>The second fruite of true wisdom, is integri<g ref="char:EOLhyphen"/>tie of manners, the practise of our Christian knowledge in performing our duetie to<g ref="char:EOLhyphen"/>wards our neighbour. This consisteth of two
+<pb n="21" facs="tcp:176876:13"/>parts, the one in the execution of publicke of<g ref="char:EOLhyphen"/>fices, the other in the course of euery mans priuate life. Vnto publicke dueties there doe pertaine the deciding of controuersies be<g ref="char:EOLhyphen"/>tweene partie and partie, &amp; the due punish<g ref="char:EOLhyphen"/>ment of malefactors according to their offen<g ref="char:EOLhyphen"/>ces: for the performance of these things, yee are assembled at this present, Iudges cheefe labourers in the businesse, Iustices assistants &amp; coadiutors, Aduocates to lay open causes, Iu<g ref="char:EOLhyphen"/>rors to make diligent enquirie for the trueth, and according to the rule of a good consciēce to returne verdictes to them that haue autho<g ref="char:EOLhyphen"/>ritie to giue sentence. All these must take heede what they doe: for they execute not the iudgements of man, but of the Lord,
+<note place="margin">2. Chron. 19.6.</note> and he wil be with you in the cause and iudgemēt. I wil set before you two examples, as two most cleare glasses of Crystall wherein you may see how to addresse your selues to the discharging of your dueties. The one is the example of the <hi>Leuites</hi> out of the book of <hi>Deuteronomie,</hi>
+               <note place="margin">Deut. 33.9</note> who regarded neither father nor mother, nor bre<g ref="char:EOLhyphen"/>thren, nor children, that they might obserue the worde of the Lord: the other out of the booke of <hi>Iob,</hi>
+               <note place="margin">Iob. 29.14.15.</note> the example of that holy man <hi>Iob,</hi> he said that he put on Iustice, and it co<g ref="char:EOLhyphen"/>uered
+<pb n="22" facs="tcp:176876:14"/>him, iudgement was as a robe and a crowne vnto him, hee was the eyes of the blinde and the feete to the lame, he was a fa<g ref="char:EOLhyphen"/>ther vnto the poore, and when he knewe not the cause, he sought it out diligently. So the setting a part of affection &amp; the knowledge of the trueth are the two eys of Iustice: that these may cōtinue cleare &amp; single, all lets and impe<g ref="char:EOLhyphen"/>diments that may any way dasel or dimme their sight must be carefully remooued.</p>
+            <p>I speake these things (honourable) to stir vp &amp; warne (I am perswaded) your pure mindes.
+<note place="margin">2. Pet. 3.1.</note> Your assistāts may be lets vnto you, if forfauor or affection, grudge or displeasure, they shold enforme you otherwise then the trueth is: and your good opinion of the man may leade you frō the right of the cause, but I trust they haue not so learned Christ: leauing them to God &amp; their own cōsciences I passe to other more co<g ref="char:EOLhyphen"/>mon &amp; apparantlets. These are the Aduocates &amp; the Iurors: such Aduocates as haue taught their tongs to cal euil good, &amp; falshood truth, that can by their smooth speaches steale away &amp; lead captiue the harts of the simple, to keep back the poore from iudgement, that widows may be their prey, &amp; that they may spoyle the fatherlesse. Born the theefe &amp; the true mā that
+<pb n="23" facs="tcp:176876:14"/>trauaile on the way, haue their swords girt to them, but to diuers ends, the theef to oppresse others, the true man to defend himselfe: so the end of the law is to defend the innocent from wrong, but it is oftentimes abused to oppresse the harmelesse There are without all questi<g ref="char:EOLhyphen"/>on very doubtfull cases &amp; both parties may seeme to defende right: but when the cause shal be so apparant, that men contrary to their own knowledge shal maintaine wrong, this bewrayeth that in these daies there are such as were spoken of long agoe, that regard not the cause but the persons, respect not the law, but the rewards, consider not what reason leadeth them vnto, but think euery thing lawful that is gaineful. These follow <hi>y<seg rend="sup">e</seg>
+               </hi> steps of one <hi>Hyperides</hi> an <hi>Athenian</hi> Lawier, who pleading in the be<g ref="char:EOLhyphen"/>halfe of an harlot, when he saw hee could not preuaile by words, he vnlaced her clothes &amp; shewed forth her whitebrests, &amp; by that means moued the foolish Iudges to cōpassion: Others by commending their clyents &amp; dispraising their aduersaries, assay to colour euill causes as harlots paint their faces, to entise wantons, forgetting that lesson. <hi>Nec bonis aduersariorū detrahendum, nec amicorum laudanda vi<g ref="char:EOLhyphen"/>tia.</hi> That good law which was carefully
+<pb n="24" facs="tcp:176876:15"/>obserued at <hi>Athens,</hi> is necessarie and profita<g ref="char:EOLhyphen"/>ble for all countries. The graue Senators did forbid such as pleaded other mens causes to mooue affection, or to speak any thing besides the matter, or by any meanes to stirre vp the minde of the Iudge to anger, enuie or pittie: though it be notan easie matter to mooue the mindes of Iudges in these daies, yet the multi<g ref="char:EOLhyphen"/>tude whose affections and passions are as the waues of the sea, may soon be drawn from the trueth by the enticing speaches of mans wis<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The impediments in Iurors are, if Iuries be pickt or packt of purpose, of those Mercenarie men which trudge from place to place, think<g ref="char:EOLhyphen"/>ing it long while they be not impanelled: there are a dangerous company which little or no<g ref="char:EOLhyphen"/>thing weigh the cause, but make all speede to receiue the wages. In great mens causes it is specially to be foreseene with all carefull dili<g ref="char:EOLhyphen"/>gence, what manner of men they bee that are Iurors,
+<note place="margin">1. Kin. 21.13</note> least feare or fauour cause them to bee like the two vnthrifts which <hi>Iezabell</hi> suborned against poore <hi>Naboth,</hi> that spake &amp; auouched against the innocent that which was altogi<g ref="char:EOLhyphen"/>ther vntrue. Wherefore the best way were, when men of might shall see their neighbours
+<pb n="25" facs="tcp:176876:15"/>or tenants in their causes empanelled, to vse meanes that they may be discharged, the matter in question shall thereby purchase cre<g ref="char:EOLhyphen"/>dite, the suspicion of oppression shall be taken away, siely men shal be freed from danger, or at least wise from exceeding feare. Let the sta<g ref="char:EOLhyphen"/>tutes of the Lord be your continual coūsellers, then shall ye be sure to guide all your waies with discretion, and wisdome shall appeare in all your actions.</p>
+            <p>The other part of your office (honourable and right worshipfull) is the punishing of ma<g ref="char:EOLhyphen"/>lefactors. Because the world is come to that passe now, that if there be two or three men of courage within a shire that striue mightily to put downe sinne, while the rest follow their owne profit or pleasure, or studie to bee popular, they are accounted busie, hard, or cruell men. I will lay before you a few reasons which should incite and stirre vp all that are in authoritie without any respect of persons or foolish pittie to drawe forth the sword that it rust not in the scabberd of securitie, and play the men in cutting downe of sinne and wic<g ref="char:EOLhyphen"/>kednesse. First, Magistrates should not leaue sinne vnpunished for their owne good &amp; safe<g ref="char:EOLhyphen"/>ties sake, for grieuous plagues haue fallen on
+<pb n="26" facs="tcp:176876:16"/>them that haue beene negligent through too much pittie in doing the worke of the Lord: <hi>Ely</hi> winked at his sonnes wickednesse,
+<note place="margin">1. Sa. 3.14 &amp; 15.19. 1. Kin 20.34.42. 1. King. 11.6</note>
+               <hi>Saule</hi> spared <hi>Agag, Acab</hi> spared <hi>Benadab</hi> and it was to them all the occasion of turne: <hi>Salomons</hi> dotage on his women in suffering them to haue Temples to serue <hi>Ashtaroth Milcom,</hi> &amp; strāge gods: this rēting of gods seruice rēt his kingdōe a part to <hi>Reboam</hi> his own son; but the greater part to <hi>Ieroboam</hi> the son of <hi>Nebat.</hi>
+               <note place="margin">1. Kin 12.20.</note>
+            </p>
+            <p>Secondly, if offenders be not punished, ini<g ref="char:EOLhyphen"/>quitie will abound and sin will multiply daily. The wise preacher saith,
+<note place="margin">Eccle. 11.8</note>
+               <hi>Because sentence a<g ref="char:EOLhyphen"/>gainst an euill work is not spedily executed, ther<g ref="char:EOLhyphen"/>fore the heart of the children of men is fully set to doe euill.</hi> Doubtlesse there is nothing that doth so much incourage men in these daies to doe that which is vnlawfull, as the hope of fa<g ref="char:EOLhyphen"/>uour: one thinketh if he be espyed, hee hath friēds that wil not faile him in a time of need, another recounteth with himselfe that his goodly personage will moue some or other to pittie him, so they runne headlong into mis<g ref="char:EOLhyphen"/>chiefe. The next way to purge the land of hai<g ref="char:EOLhyphen"/>nous offences, is to execute the lawe alike on all, that none may be emboldned thorough hope. As the Chronicles of this land do testi<g ref="char:EOLhyphen"/>fie,
+<pb n="27" facs="tcp:176876:16"/>
+               <hi>Alfred</hi> a king of the <hi>Saxons</hi> had his lawes so executed, that men might hanggolden brace<g ref="char:EOLhyphen"/>lets &amp; Iewels at crosse waies and no man durst to touch them for feare of the law, there was no hope of fauour, no nor yet in the daies of <hi>Edgar</hi> another king of the <hi>Saxons,</hi> who is cō<g ref="char:EOLhyphen"/>mended to be so excellent in Iustice &amp; sharpe in correction of vices aswel in his Magistrates as other subiects, that neuer before his daies was vsed lesse fellonie by robbers or extorti<g ref="char:EOLhyphen"/>on, or bribery by false officers. It is also recor<g ref="char:EOLhyphen"/>ded, that in <hi>William</hi> the Conquerers daies, a yong wench might carry a burthen of golde through the whole land without danger, there was no hope of fauour: the lawes of those for<g ref="char:EOLhyphen"/>named princes could be no more comparable to the lawes of England now, then the discre<g ref="char:EOLhyphen"/>tion of a child of two yeares age to the wis<g ref="char:EOLhyphen"/>dome of a graue Senator, god grant the fault may be amended where it is.</p>
+            <p>Thirdly the neglect of Iustice is dāgerous to the whole people, where it is so neglected: as long as the people committed abhomination against the Lord without punishment, the wrath of the Lord was hote against <hi>Israel</hi> &amp; the Lord plagued thē, that there died 24000.
+<note place="margin">Num. 25.8</note> but when zealous <hi>Phinees</hi> had done the
+<pb n="28" facs="tcp:176876:17"/>execution vpon them that wrought wicked<g ref="char:EOLhyphen"/>nesse in the Campe, the plague ceased from the children of Israell.
+<note place="margin">Iosu. 7.26.</note> When <hi>Achan</hi> was sto<g ref="char:EOLhyphen"/>ned, the Lord turned from his fierce wrath. When the sinne of the bloudie house of <hi>Saule</hi> was punished,
+<note place="margin">2. Sam. 21.14.</note> the officers hauing performed all that the king commaunded, God was then appeased with the land.</p>
+            <p>All this standeth well with the rule of chri<g ref="char:EOLhyphen"/>stian charitie, for it is not vnknowne that a magistrate sustaineth a double person: as hee is a christian brother,
+<note place="margin">Mat. 18.24</note> so indeede hee must for<g ref="char:EOLhyphen"/>giue, as God hath forgiuen him, be meeke &amp; patient: sith he himselfe hath had ten thou<g ref="char:EOLhyphen"/>sand talents forgiuen him, not to take his bro<g ref="char:EOLhyphen"/>ther by the throate for an hundred pence: as he is a magistrate,
+<note place="margin">Psal. 82.1.</note> he is gods vice gerent, and in that respect God vouchsafeth him his owne name, and he is strictly bounde to execute his office as occasion shall be offered: sometimes inflicting easier, sometimes sharper punish<g ref="char:EOLhyphen"/>ments vpon euill doers. A wise king scattereth the wicked and causeth the wheele to turne o<g ref="char:EOLhyphen"/>uer them,
+<note place="margin">Pro. 20.26</note> and in so doing, hee doth a deede of charitie, for who so spareth the wicked op<g ref="char:EOLhyphen"/>presseth the godly.</p>
+            <p>I will by your fauourable patience, put you
+<pb n="29" facs="tcp:176876:17"/>in minde at this time of one sinne by name, that it may be the better lookt vnto, that is euen that great &amp; capitall sinne of this land, Recusancie. The suffering of the <hi>Canaanits</hi> &amp; the making of peace with thē, was an oc<g ref="char:EOLhyphen"/>casion that the children of Israell called the name of the place <hi>Bochim,</hi> that is,
+<note place="margin">Iud. 2.5.</note> weeping or lamentation. If our open and professed e<g ref="char:EOLhyphen"/>nemies abroade doe looke for any assistance heere at home, to make this lande of Eng<g ref="char:EOLhyphen"/>land <hi>Bochim</hi> too, they, they, euen our Re<g ref="char:EOLhyphen"/>cusants, are the men at whose handes they looke for great matters. Wee are sute that the Lord will not giue the soule of his turtle vnto dogs, nor his darling into his enemies hands. Neuerthelesse, we may not neglect lawfull meanes to auorde danger, by refor<g ref="char:EOLhyphen"/>ming that great company of Papists which lurke, nay which liue openly, re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>using to communicate with vs in the word &amp; Sacra<g ref="char:EOLhyphen"/>ments.
+<note place="margin">1 Ioh. 4.6.</note> Sith it is most euident that the cause of Recusancy is ignorance, and the best re<g ref="char:EOLhyphen"/>medy thereof the hearing of Gods worde sincerely preached: it is much to be wished that they were al compelled to come where they might heare, and learne that their pre<g ref="char:EOLhyphen"/>tence of conscience is but a deceiptfull iug<g ref="char:EOLhyphen"/>ling
+<pb n="30" facs="tcp:176876:18"/>trick of the deceiuer. As the <hi>Donatists</hi> loued their errors better then their liues, so these loue their ignorance better then their goods. For the curing of bodily diseases both in men and beastes, if they refuse to receiue medecines, we will manacle, bind and fet<g ref="char:EOLhyphen"/>ter them that they may receiue medicines: and should we not much more enforce our sicke brethren to receiue the medicines of the soule? In my simple iudgement, this is euery mans case, we are all bound to seeke the good one of another, and the greatest good is the saluation of our soules: Where<g ref="char:EOLhyphen"/>fore none may passe ouer this matter with the excuse of <hi>Gallio,</hi> who would not meddle in <hi>Paules</hi> cause,
+<note place="margin">Act. 18.15.</note> because it was a matter of religion: but let vs all know for a certainty that God would haue kings and Iudges to be wise and learned, that the earth might be filled with knowledge as the waters couer the sea, that religion might be plāted from <hi>Dan</hi> to <hi>Bersheba.</hi>
+            </p>
+            <p>The second part of our practise, is the orde<g ref="char:EOLhyphen"/>ring and guiding of our priuate life after the rule of gods holy word, for as it is truely said of Philosophical vertues, <hi>omnis virtutis laus in actione consistit,</hi> so it is to be held of Christi<g ref="char:EOLhyphen"/>an
+<pb n="31" facs="tcp:176876:18"/>profession and diuine knowledge;
+<note place="margin">Iam. 1.2</note>
+               <hi>The dooer of the worke shall be blessed in his deede,</hi> saith Saint <hi>Iames.</hi> Wherefore Christianitie doth not consist in bare hearing, or reading the scriptures, nor in talking or disputing of them, for notwithstanding these things, a man may be a reprobate:
+<note place="margin">1. Pet. 1.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> but herein consis<g ref="char:EOLhyphen"/>teth the commoditie and right vse of our re<g ref="char:EOLhyphen"/>ligion,
+<note place="margin">Iam. 1.2</note> that we reforme our waies and keep our selues vnspotted of the worlde. When our Lord and Sauiour came into the coastes of <hi>Caesarea Philippi,</hi> hee asked his disciples,
+<note place="margin">Mat. 16.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> saying; <hi>Whom doe men say that I the sonne of man am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> In like sort saith <hi>Origen,</hi> be that is a Bishop or a Magistrate may aske this que<g ref="char:EOLhyphen"/>stion; What doth the world say of me? But he must aske of him that will answere with<g ref="char:EOLhyphen"/>out flattery. Vpon the wisemans warrant who saith,
+<note place="margin">Pro. 28.2</note> that he that rebuketh a man shall finde more fauour at the length, then he that flattereth with his tongue, I wil shew you plainly what the world saith of you. Men say som are <hi>Esaus,</hi> som <hi>Nimrods,</hi> some <hi>Sodomits,</hi> many the schollers of <hi>Macheuill,</hi> few <hi>Lots,</hi>
+               <note place="margin">Gen. 25.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10.9. 1. Ki. 18.1 Act. 10 Luk 32.</note> few <hi>Iosephs,</hi> few <hi>Obadiahs,</hi> few <hi>Cornelij,</hi> fewe <hi>Zachees,</hi> these are the cōmon whisperings a<g ref="char:EOLhyphen"/>broad: there is also a common outcry to bee
+<pb n="32" facs="tcp:176876:19"/>hard almost in euery place, &amp; this is against couetousnesse, because poore mens tents are daily racked, their fines intollerable, their ancient tenures altered, their new leases stuf<g ref="char:EOLunhyphen"/>fed with ambiguous &amp; dāgerous clauses, <hi>Re<g ref="char:EOLhyphen"/>hoams</hi> little finger is heauier then his fathers loynes, this yee call <hi>Improuement.</hi> It is also reported that by how much the greater cost the tenants bestowe in manuring their te<g ref="char:EOLhyphen"/>nements, in erecting houses necessarie, plā<g ref="char:EOLhyphen"/>ting Orchards, &amp; such like, it is by so much the more vnlikely that their post eritie shall euer enioy the same, especially by how much the nearer they dwell vnto their landlords.</p>
+            <p>For as <hi>Eue,</hi> though shee had an infinite number of most delicate fruites giuen her of the Lord in Paradise,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en. 3.2.3.</note> yet she most earnestly desired one that was forbidden, &amp; thought it good for meate: and vnto <hi>Achab,</hi> who without doubt wanted no gardens, the vin<g ref="char:EOLhyphen"/>yarde of <hi>Naboth</hi> seemed very commodious to make him a garden of hearbes: so fareth it in these daies, this mans tenement with o<g ref="char:EOLhyphen"/>ther his neighbours liuings are very fit to en<g ref="char:EOLhyphen"/>large their Landlords demaines, such a mā<g ref="char:EOLhyphen"/>ner hath good pastures within it, for recoue<g ref="char:EOLhyphen"/>ring of them there shal not want a <hi>Ionadab</hi> to
+<pb n="33" facs="tcp:176876:19"/>lay a plot: if there be no other meanes, then it must serue to make a parke, which will both take away the suspicion of couetous<g ref="char:EOLhyphen"/>nesse, and also be a good meanes to drawe in more next adioyning, which after a few yeares may bee imployed to vses more pro<g ref="char:EOLhyphen"/>fitable both for the owner, and also for the common wealth. Whether it be more reasonable that they that haue aboundance should bee content with their lot, or that such as haue but little should depart from all that they possesse, iudge yee. For an an<g ref="char:EOLhyphen"/>swere vnto the common excuses vsed in this behalfe, I beseech you consider how the holy Ghost hath penned the storie of <hi>Achab</hi> &amp; <hi>Naboth. Achab</hi> was the king of the land,
+<note place="margin">1. Kin. 21.2</note> a man would haue thought it a small fault in him to desire any thing of his subiecte for his pleasure, yea no fault at all, sith hee offered him his choyce either to take so much money as it was worth, or a better vineyarde than that was, in another place, so that hee was, not so rigorous to take from another man his right without full recom<g ref="char:EOLhyphen"/>pence: Yet the very desire of hauing, is there noted to bee euill, and laide before vs for our admonition, that wee shoulde
+<pb n="34" facs="tcp:176876:20"/>take heede that wee doe not transgresse af<g ref="char:EOLhyphen"/>ter the like manner. <hi>Achab</hi> though he were a king, had a high Lord aboue him which maintained the cause of the poore helplesse: this high Lord is he that hath pronounced by his Prophet a woe to them that will leaue no place for the poore to dwell in,
+<note place="margin">say. 5.8.</note> he can thrust these earthen Lords out of doores at his pleasure, as he did <hi>Nabuchadnezer,</hi> hee can take their soules from them euen when they haue set vp their rest, as he did to the rich man in the Gospell. Sith the case stādeth thus, it is no wisdome for the workers of ini<g ref="char:EOLhyphen"/>quitie to eate vp gods people as they eate bread, it is no wisdome to set our affections on things here belowe, as ioyning of land to land, and house to house, that wee may be placed by our selues on the middest of the earth, it is no wisdome to vnpeople parishes and countries. Though husbandmen &amp; til<g ref="char:EOLhyphen"/>lers of the earth be not asked their iudge<g ref="char:EOLhyphen"/>ment in the counsell of the people, neither are they high in the congregation, neither sit they vpon the iudgement seats, yet with<g ref="char:EOLhyphen"/>out these cannot common weales continue, cities cannot be maintained nor inhabited nor occupied. As for such whose conscien<g ref="char:EOLhyphen"/>ces
+<pb n="35" facs="tcp:176876:20"/>doe acquite them from this sinne of co<g ref="char:EOLhyphen"/>uetousnesse, let them search and examine themselues whether there be any other sin that raigneth in them, for he that is an adul<g ref="char:EOLhyphen"/>terer is in the same condemnation that the couetous is, the drunkard and glutton and proude man is also in as dangerous estate as the others: one raigning sinne whatsoeuer it be without repentance, shall be more bit<g ref="char:EOLhyphen"/>ter vnto our soules then the <hi>Colliquintida</hi> was to the taste of the children of the Pro<g ref="char:EOLhyphen"/>phets, when it caused them to cry,
+<note place="margin">2. Kin. 4, 40</note>
+               <hi>Death is in the pot.</hi> Let vs all embrace true wisdome which teacheth all men to consider their waies, and to turne their feete vnto the testi<g ref="char:EOLhyphen"/>monies of the Lord, to make haste and delay not to keepe his commaundements: it tea<g ref="char:EOLhyphen"/>cheth vs to make bags which waxe not old, a treasure that cannot faile in heauen, where no theefe commeth nor moath corrupteth,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9.</note> in a worde to denie vngodlinesse and worldly lustes, and to liue soberly and righteously and godly in this present world,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. 12.23.</note> as becommeth the peculiar people of God, zealous of good workes.</p>
+            <p n="4">4 The last member of my first diuision is,
+<pb n="36" facs="tcp:176876:21"/>the time when men should put in practise the charge before spoken of, a thing not to bee omitted: for many that consent to all the rest, trifle very dangerously about the time: therefore it is worth our obserua<g ref="char:EOLhyphen"/>tion that the Prophet leaueth vs not at our libertie, but saith, <hi>Now be wise as God him<g ref="char:EOLhyphen"/>selfe is alwaies, I am:</hi> so they that are gods should thinke it little worth to say, they haue beene wise, holy, and righteous, or that they will bee so hereafter, but that true wisdome consisteth in present obedi<g ref="char:EOLhyphen"/>ence vnto her wordes which calleth the fooles from their foolishnesse, &amp; the scorn<g ref="char:EOLhyphen"/>full from ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing pleasure in scorning. That wee may without delay, by our holy obe<g ref="char:EOLhyphen"/>dience shewe our godly wisdome, there are three most forcible arguments ready at hand to perswade vs. First, the shortnesse of our liues and the vncertainetie of our estates, the rich man that built his barnes wider, and bid his soule take rest, because of his greate store laide vp for many yeares, that same night had his soule taken from him. There is no man here presēt this day, <milestone type="tcpmilestone" unit="unspecified" n="4"/> or liuing vpo the earth, that can absolutely say vnto him<g ref="char:EOLhyphen"/>selfe, that he wil doe this or that tomorrow.</p>
+            <pb n="37" facs="tcp:176876:21"/>
+            <p> Secondly, gods iudgements are neerer then wee thinke of,
+<note place="margin">Mat. 3.10.</note> according to the saying of <hi>Iohn</hi> the <hi>Baptist, The axe is laide to the roote of the tree,</hi> hee saith not, that it shall be laide, but that it is: so was it with the <hi>A<g ref="char:EOLhyphen"/>malekites</hi> when they lay scattered vpon the earth, eating and drinking and dauncing,
+<note place="margin">1. Sam. 30.16.</note> because of all the greate prey that they had taken out of the land of the <hi>Philistines</hi> and out of the Lande of <hi>Iudah, Dauid</hi> came v<g ref="char:EOLhyphen"/>pon them and smote them from the twi<g ref="char:EOLhyphen"/>light euen vnto the euening of the next mor<g ref="char:EOLhyphen"/>row, so that there escaped not a man of thē, saue 400.
+<note place="margin">Dan 4.22.</note> young men which rode vpon Ca<g ref="char:EOLhyphen"/>mels and fled: so was it with <hi>Nabuchadne<g ref="char:EOLhyphen"/>zar,</hi> while hee vaunted vpon his palace of <hi>Susan,</hi> he heard a voice saying; <hi>Thou shalt eate grasse with the beastes of the field,</hi> and so it came to passe.
+<note place="margin">2. King. 19.37</note> While <hi>Sanacherib</hi> was in the Temple worshipping <hi>Nisroch</hi> his God, <hi>Adramelech</hi> and <hi>Sharezer</hi> his sonnes slewe him:
+<note place="margin">Act. 12.23.</note> While <hi>Herode</hi> was in his royall appa<g ref="char:EOLhyphen"/>rell sitting on the iudgement seate, being tickled with the vaine commendations of the people, the Angell of the Lord smote him, so that he was eaten of wormes, and gaue vp the Ghost.</p>
+            <pb n="38" facs="tcp:176876:22"/>
+            <p> Lastly,
+<note place="margin">Esa. 55.6.</note> the day of visitation, the day of sal<g ref="char:EOLhyphen"/>uation, the time of grace lasteth not for euer: to this purpose wisdome her selfe speaketh of them that deferre their amendment,
+<note place="margin">Pro. 1.28.</note>
+               <hi>they shall call vpon me, but I will not answere: they shall seeke mee earely, but they shall not finde mee, because they hated knowledge and did not chuse the feare of the Lord.</hi> This was per<g ref="char:EOLhyphen"/>formed in <hi>Hierusalem</hi> euen that citie which the Lord did chuse out of all the tribes of <hi>Is<g ref="char:EOLhyphen"/>raell,</hi>
+               <note place="margin">Zach. 7.12.13.</note> to put his name there, in their prospe<g ref="char:EOLhyphen"/>ritie the inhabitants therof made their harts as an Adamant stone, least they should heare the lawe, and the words which the Lord of hostes sent in his spirit by the ministerie of his Prophets: therfore it came to passe, that as he cryed and they wold not heare, so they cryed and I would not heare saith the Lord of hostes,
+<note place="margin">Luk. 19.42</note> Because <hi>Hierusalem</hi> would not embrace Christ their Sauiour, therefore was their citie brought to desolation.</p>
+            <p>The fiue foolish virgines followed after the bridegroome, but the wedding chamber doore was shut before they came, and they could not enter in while they were buying of oyle the time passed,
+<note place="margin">Mat. 25.12.</note> and they came to late. Well, let vs all know this, that as the night
+<pb n="39" facs="tcp:176876:22"/>succeedeth the day, and winter followeth sommer, so iudgement cōmeth after mer<g ref="char:EOLhyphen"/>cie, and where this is not accepted, there that will not bee resisted: God giue vs his grace to be wise in season. Now vnto the king euerlasting, immortall, inuisible, vnto God onely wise be honour and glorie for e<g ref="char:EOLhyphen"/>uer and euer, Amen.</p>
+            <q>
+               <bibl>
+                  <hi>Ecclesiastes. 12.11.</hi>
+               </bibl>
+               <p>The wordes of the wise are like goades and like nailes fastned by the masters of the assemblies, which are giuen by one Pastour.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
